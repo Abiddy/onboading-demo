@@ -22,7 +22,7 @@ export default function OnboardingLayout({
     inviteUsers: false,
   });
 
-  // checking of required feilds are filled throuhg the store!
+  // checking if required feilds are available the store!
   useEffect(() => {
     setCompletionStatus({
       companyProfile: !!store.companyName,
