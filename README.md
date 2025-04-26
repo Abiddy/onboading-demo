@@ -2,6 +2,9 @@
 
 This application demonstrates a robust, user-friendly onboarding flow built with Next.js, TypeScript, Zod, and Zustand. It showcases several modern React development best practices for form handling, state management, and UI/UX design.
 
+<img width="1189" alt="Screenshot 2025-04-26 at 2 39 24 PM" src="https://github.com/user-attachments/assets/f989281b-71cb-4ef3-9a75-e027b0a542c2" />
+
+
 ## Core Features
 
 - Multi-step form wizard with progressive disclosure
